@@ -2,7 +2,7 @@
 
 This repository presents a structured pipeline for topic modeling on oncology social work notes using **BERTopic**, followed by automated topic labeling with large language models (LLMs). The manuscript associated with this repository has been accepted for publication and is in-press. The citation will be updated below once the final manuscript is available. 
 
-Benson R, Rajkumar S, Kenny C, Zhao M, Chang JH, Scheel T, Boreta L, Hong JC. Computational identification of salient cancer care topics and themes in oncology social work notes. JNCI Cancer Spectrum. In press.
+**Benson R, Rajkumar S, Kenny C, Zhao M, Chang JH, Scheel T, Boreta L, Hong JC. Computational identification of salient cancer care topics and themes in oncology social work notes. JNCI Cancer Spectrum. In press.
 
 For more details on BERTopic, see the official repository:
 https://github.com/MaartenGr/BERTopic
