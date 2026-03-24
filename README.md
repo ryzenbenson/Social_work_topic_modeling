@@ -101,9 +101,9 @@ Key dependencies include:
 
 Execute the scripts in the following order:
 
-1. **Script 1:** Generate embeddings and determine optimal number of topics
-2. **Script 2:** Train final BERTopic model and export results
-3. **Script 3:** Generate LLM-based topic labels and descriptions
+1. **Coherence_experiments.ipynb:** Generate embeddings and determine optimal number of topics
+2. **Final_topic_model.ipynb:** Train final BERTopic model and export results
+3. **BERTopic_LLM_interpretation:** Generate LLM-based topic labels and descriptions
 
 ---
 
